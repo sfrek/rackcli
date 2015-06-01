@@ -1,0 +1,5 @@
+.bundle
+Gemfile.lock
+config/config.yml
+*.swp
+**/*.swp

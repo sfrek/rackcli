@@ -1,0 +1,3 @@
+task :convert do
+	yaml2csv:yaml2csv INPUT=servers.yml, OUTPUT=servers.csv
+end
